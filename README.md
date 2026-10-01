@@ -2,7 +2,7 @@
 
 A robust e-commerce platform for selling grocery items, built with Django.
 
-## 🚀 How to Run (VS Code)
+##  How to Run (VS Code)
 
 ### 1. Prerequisites
 Ensure you have **Python** installed on your computer.
@@ -25,7 +25,7 @@ python manage.py runserver
 *   You will see a link like `http://127.0.0.1:8000/`. Ctrl+Click it to open the website.
 *   To stop the server, press `Ctrl+C` in the terminal.
 
-## 🔑 Admin Panel
+##  Admin Panel
 *   **URL**: [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
 *   **Username**: `admin`
 *   **Password**: ` `
