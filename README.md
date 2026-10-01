@@ -97,6 +97,6 @@ http://127.0.0.1:8000/
 **Maryam Fatima**
 
 GitHub: [Maryam322](https://github.com/Maryam322)
-## 🛠️ Common Commands
+##  Common Commands
 *   **Create a new Admin**: `python create_superuser.py`
 *   **Reset Database** (if needed): Delete `db.sqlite3` and run `python manage.py migrate`
